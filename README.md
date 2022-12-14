@@ -29,7 +29,7 @@ Develop a Web "CRUD" application in PHP that allows developers and teams to make
 
 <img src="https://user-images.githubusercontent.com/108950985/207260323-b4994980-305d-4038-9f79-cad18934ab7b.png" width="300px">
 
-![ScreenshotVistaTres](https://user-images.githubusercontent.com/108950985/207260365-d12770ee-eccd-4ce7-9a35-000d3250f7d0.png)
+<img src="https://user-images.githubusercontent.com/108950985/207260365-d12770ee-eccd-4ce7-9a35-000d3250f7d0.png" width="300px">
 
 
 ## Stacks 🔧
