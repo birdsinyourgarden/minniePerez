@@ -25,7 +25,7 @@ Develop a Web "CRUD" application in PHP that allows developers and teams to make
   
 ## Screenshots 🐭
 
-![ScreenshotVistaUno](https://user-images.githubusercontent.com/108950985/207260246-68cd6ad5-d8ed-47ef-a52e-692433e2ffc8.png)
+<img src= "https://user-images.githubusercontent.com/108950985/207260246-68cd6ad5-d8ed-47ef-a52e-692433e2ffc8.png width:100px">
 
 ![ScreenshotVistaDos](https://user-images.githubusercontent.com/108950985/207260323-b4994980-305d-4038-9f79-cad18934ab7b.png)
 
