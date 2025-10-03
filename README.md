@@ -71,7 +71,7 @@ Develop a Web "CRUD" application in PHP that allows developers and teams to make
 
 ## Next steps 🐁
 
-* Diseño responsive
+* Responsive design
 * Add pop-up window to confirm when deleting child entry in database.
 * Add vertical scrollbar in homepage form. 
 * Change language to English in required fields.
